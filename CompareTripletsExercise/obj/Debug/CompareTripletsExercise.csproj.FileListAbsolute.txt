@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\CompareTripletsExercise\CompareTripletsExercise\obj\Debug\CompareTripletsExercise.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\CompareTripletsExercise\CompareTripletsExercise\obj\Debug\CompareTripletsExercise.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\CompareTripletsExercise\CompareTripletsExercise\bin\Debug\CompareTripletsExercise.exe.config
+C:\Users\WeCanCodeIT\source\repos\CompareTripletsExercise\CompareTripletsExercise\bin\Debug\CompareTripletsExercise.exe
+C:\Users\WeCanCodeIT\source\repos\CompareTripletsExercise\CompareTripletsExercise\bin\Debug\CompareTripletsExercise.pdb
+C:\Users\WeCanCodeIT\source\repos\CompareTripletsExercise\CompareTripletsExercise\obj\Debug\CompareTripletsExercise.exe
+C:\Users\WeCanCodeIT\source\repos\CompareTripletsExercise\CompareTripletsExercise\obj\Debug\CompareTripletsExercise.pdb
